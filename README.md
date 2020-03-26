@@ -1,0 +1,3 @@
+O link de fontes não funcionou...
+Para corrigir utilizei o link direto da documentação do Bootstrap
+
