@@ -5,7 +5,7 @@ const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
+const indexUsuariosRouter = require('./routes/usuarios/index');
 const app = express();
 const expressEjsLayouts = require('express-ejs-layouts');
 
@@ -25,7 +25,7 @@ const expressEjsLayouts = require('express-ejs-layouts');
 
   //Rotas
   app.use('/', indexRouter);
-  app.use('/users', usersRouter);
+  app.use('/usuarios', indexUsuariosRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

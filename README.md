@@ -9,5 +9,11 @@
     > Criei um arquivo .gitignore para ignorar a pasta node_modules ao subir o projeto no Github
 
     > O link de fontes não funcionou...
-      Para corrigir utilizei o link direto da documentação do Bootstrap
+        Para corrigir utilizei o link direto da documentação do Bootstrap
+
+    > A utilização do icones Glyphicon do Bootstrap não funcionou 
+        Correção pendente...
+
+    > Alterei a chamada # para / ao clicar no logo Administrador 
+        Dessa forma a aplicação não fica travada na página de usuários
 
