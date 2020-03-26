@@ -4,7 +4,7 @@
 
     https://github.com/marciock
 
-// Abaixo irei descrever os erros que surjirão ou as alterações que fiz no decorrer do acompanhamento do exemplo do livro:
+// Abaixo irei descrever os erros que surgiram ou as alterações que fiz no decorrer do desenvolvimento do projeto:
 
     > Criei um arquivo .gitignore para ignorar a pasta node_modules ao subir o projeto no Github
 
