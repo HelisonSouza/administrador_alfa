@@ -12,8 +12,11 @@
         Para corrigir utilizei o link direto da documentação do Bootstrap
 
     > A utilização do icones Glyphicon do Bootstrap não funcionou 
-        Correção pendente...
+        Atualizaei a instalação do Bootstrap v3.3.7, Popper v1.12.6 e Jquery v3.2.1
+        Relacionei o CSS do Bootstrap 4.4.1 via cdn no arquivo header.ejs
 
     > Alterei a chamada # para / ao clicar no logo Administrador 
         Dessa forma a aplicação não fica travada na página de usuários
+
+    > Corrigi o posicionamento do link de 'Login' na navbar com a classe justify-content-end e destaquei o testo com style bolt
 
